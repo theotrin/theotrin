@@ -1,6 +1,11 @@
 # :space_invader: Olá pessoal!
 
-:bookmark:Meu nome é Theo Trindade, e eu estou me dedicando para me tornar um Desenvolvedor Backend. Atualmente, trabalho como estagiário no Cetam, onde coleciono soft skills e tento sempre que possível adicionar programação no meu dia a dia. Eu amo tecnologia e aprender sobre programação. Também adoro conversar sobre ficção científica, história e coisas distópicas em geral."
+:bookmark:Meu nome é Theo Trindade, curto animes e conversas distopicas como realidade alternativas e mundo otaku em geral. 
+
+Atualmente, dia a dia eu melhoro minhas habilidades tecnicas como desenvolvedor backend e trabalho no apoio pedagogico no Cetam, onde coleciono soft skills e tento sempre que possível adicionar programação no meu dia a dia. Eu amo tecnologia e aprender sobre programação.
+
+Aluno bolsista da Cubos Academy Desenvolvimento de Software com foco um Back-End a programa abrange diversos topicos essenciais incluindo:
+*Javascript, Logica de Programação, Banco de Dados, PostgreSQL, Node js, Express, Metodologias Ágeis, Git, Query, Builder, Knex js, API REST, Criptografia."*
  
 
 
@@ -12,7 +17,7 @@ Para me encontrar:
 
 :hammer_and_wrench:	Hard Skills: 
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40">  <img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" alt="Js library long shadow nodejs web icon" width="40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Js library long shadow nodejs web icon" width="40"> <img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" alt="postgres database icon" width="40"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git icon" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="api icon" width="40"> 
 
 *Na teoria, não há diferença entre teoria e prática. Na prática, há. - Benjamin Brewster*
 
