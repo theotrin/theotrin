@@ -17,7 +17,7 @@ Para me encontrar:
 
 :hammer_and_wrench:	Hard Skills: 
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Js library long shadow nodejs web icon" width="40"> <img src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" alt="postgres database icon" width="40"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git icon" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="api icon" width="40"> 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="50"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Js library long shadow nodejs web icon" width="40"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git icon" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" alt="api icon" width="40"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="react.js icon" width="40"> <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" alt="react.js icon" width="90"> <img src="https://miro.medium.com/v2/resize:fit:700/0*wWQMjAhLGwoOYJYo.png" alt="react.js icon" width="100">
 
 *Na teoria, não há diferença entre teoria e prática. Na prática, há. - Benjamin Brewster*
 
