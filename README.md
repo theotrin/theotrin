@@ -1,6 +1,6 @@
 # :space_invader: Olá pessoal!
 
-:bookmark:Meu nome é Theo Trindade desenvolvedor fullstack, gosto de conversas distopicasm, animes, realidade alternativas e mundo otaku em geral. 
+:bookmark:Meu nome é Theo Trindade desenvolvedor fullstack, gosto de conversas distopicas, animes, realidade alternativas e mundo otaku em geral. 
 
 Apaixonado por programação, fico muito feliz enquanto estudo sobre e descubro coisas novas, dedico meu
 tempo livre a aprimorar minhas habilidades e desenvolver projetos pessoais :D.
